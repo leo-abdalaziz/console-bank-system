@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Visual Studio generated files
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiler outputs
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.idb
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dynamic/static libraries
+*.dll
+*.lib
+*.a
+*.so
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IntelliSense
+ipch/
